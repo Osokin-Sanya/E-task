@@ -1,0 +1,75 @@
+.pointer {
+  cursor: pointer;
+}
+.block-card {
+  display: flex;
+  flex-wrap: wrap;
+}
+.ant-input-number {
+  width: 64px;
+}
+
+.css-dev-only-do-not-override-k7429z.ant-card
+  .ant-card-actions
+  > li
+  > span:first-child {
+  /* cursor: default; */
+  color: rgb(45, 44, 44);
+}
+.ant-card-actions {
+  align-items: center;
+}
+.chosen > ul > li:last-child svg path {
+  fill: rgba(0, 173, 3, 0.751);
+}
+
+.DeleteOutlined {
+  width: 0 !important;
+}
+.css-dev-only-do-not-override-k7429z
+  .ant-input-number
+  .ant-input-number-handler-wrap {
+  z-index: 100;
+}
+
+.inputCount {
+  width: 40px;
+}
+.inputCount[type="number"]::-webkit-inner-spin-button,
+.inputCount[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+#map {
+  height: 180px;
+}
+.address {
+  color: black;
+}
+.address {
+  line-height: 34px;
+}
+.adm,
+.adr,
+.poi {
+  color: black;
+  line-height: 20px;
+}
+
+#visicom-autocomplete {
+  background: none !important;
+  line-height: 20px !important;
+}
+.dataCity {
+  color: black;
+  line-height: 20px;
+}
+
+#visicom-autocomplete input,
+#visicom-autocomplete {
+  width: 300px !important;
+}
+
+#map{
+  margin-bottom: 20px;
+}
